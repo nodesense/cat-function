@@ -16,7 +16,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <azure.functions.maven.plugin.version>1.2.0</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>1.2.0</azure.functions.java.library.version>
-        <functionAppName>funcexample-20181122154040853</functionAppName>
+        <functionAppName>func-example-cat-getname</functionAppName>
         <functionAppRegion>westus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
         <functionResourceGroup>java-functions-group</functionResourceGroup>
