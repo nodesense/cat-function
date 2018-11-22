@@ -10,6 +10,10 @@ mvn clean package
 
 mvn azure-functions:run
 
+
+az login
+
+
 mvn azure-functions:deploy
 
 
