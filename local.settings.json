@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=catstorageworkshop2;AccountKey=s1yxd0fsuq9wExwHECPj8zp04+d72X2ZER3c9cVi3EJW2sxakYz46s1ok2Rc5w6iDi1MUWs97XYWjKwB07tdDQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java"
+  }
+}
